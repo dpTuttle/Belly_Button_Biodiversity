@@ -15,7 +15,7 @@ This project consisted of creating a dashboard that displayed information about 
 
 
 ## Results
-The final result was an interactive [dashboard](https://dpTuttle.github.io/Belly_Button_Biodiversity/) presented in a easy way to end users through Github Pages. 
+The final result was an interactive [dashboard](https://dptuttle.github.io/Belly_Button_Biodiversity/) presented in a easy way to end users through Github Pages. 
 
 
 
